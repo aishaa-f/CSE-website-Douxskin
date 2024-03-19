@@ -166,4 +166,8 @@ li a:hover:not(.active) {
 
 </body>
 </html>
-
+<style>
+body {
+  background-color: rgba(201, 76, 76, 0.3);
+}
+</style>
